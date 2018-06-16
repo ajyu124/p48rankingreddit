@@ -317,9 +317,11 @@ function getRankInfo(d) {
         return "Withdrew from show";
     }
     if (d.isEliminated) {
-        return "Eliminated in Episode " + episodes[d.ranking.length - 1];
+        //return "Eliminated in Episode " + episodes[d.ranking.length - 1];
+        return;
     }
-    return "Wanna One Member, Rank " + d.currentRank + " " + displayRankChange(d);
+    return;
+    //return "Wanna One Member, Rank " + d.currentRank + " " + displayRankChange(d);
 }
 
 function updateNotes(d) {
