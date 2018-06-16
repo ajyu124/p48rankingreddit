@@ -321,7 +321,7 @@ function getRankInfo(d) {
         //return "Eliminated in Episode " + episodes[d.ranking.length - 1];
         return;
     }
-    return;
+    return d.currentRank + " " + displayRankChange(d);
     //return "Wanna One Member, Rank " + d.currentRank + " " + displayRankChange(d);
 }
 
