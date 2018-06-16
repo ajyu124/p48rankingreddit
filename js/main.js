@@ -360,7 +360,7 @@ function parseLine(row) {
     var r = {};
     r.name = row.Name;
     r.company = row.Company;
-    r.letter = row["Re-Evaluation"];
+    r.letter = row["Level Audition"];
     r.specialNote = row.note;
     r.ranking = [];
     episodes.forEach(function(episode, i) {
