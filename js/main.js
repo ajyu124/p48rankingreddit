@@ -22,7 +22,8 @@ var colors = {
     "B": "#ff951c",
     "C": "#fff200",
     "D": "#00a500",
-    "F": "gray"
+    "F": "gray",
+    "?": "#000000"
 };
 
 // Set up plot
