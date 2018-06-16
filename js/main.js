@@ -314,7 +314,8 @@ function getRankInfo(d) {
         return d.specialNote;
     }
     if (d.ranking.length == 0) {
-        return "Withdrew from show";
+        //return "Withdrew from show";
+        return;
     }
     if (d.isEliminated) {
         //return "Eliminated in Episode " + episodes[d.ranking.length - 1];
