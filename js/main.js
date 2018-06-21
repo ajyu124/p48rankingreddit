@@ -371,7 +371,9 @@ function parseLine(row) {
     var r = {};
     r.name = row.Name;
     r.company = row.Company;
+    r.country = row.Country;
     r.letter = row["Level Audition"];
+    r.letter2 = row["Re-Evaluation"];
     r.specialNote = row.note;
     r.ranking = [];
     episodes.forEach(function(episode, i) {
