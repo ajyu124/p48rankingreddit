@@ -149,22 +149,22 @@ path.ranking {
   table-layout: fixed;
   width: 100%;
   font-size: 13px; }
- /*  #top .selectedSort {
-    color: #000; }*/
-  #top #japanBody .selectedSort {
+   #top .selectedSort {
+    color: #000; }
+  /*#top #japanBody .selectedSort {
     color: #dbcece; }
 #top #koreaBody .selectedSort {
-    color: #ccd9e0; }
+    color: #ccd9e0; }*/
   #top #topBody tr {
     cursor: pointer; }
     #top #topBody tr:hover {
       background: #e6e6e6 !important; }
-   /* #top #topBody tr.wanna-members {
-      background: #eee; }*/
-#top #topBody #japanBody tr.wanna-members {
+   #top #topBody tr.wanna-members {
+      background: #eee; }
+/*#top #topBody #japanBody tr.wanna-members {
       background: #dbb3cd; }
 #top #topBody #koreaBody tr.wanna-members {
-      background: #a6c1cf; }
+      background: #a6c1cf; }*/
   #top td {
     padding: 5px 15px;
     border-bottom: 1px solid #ccc; }
