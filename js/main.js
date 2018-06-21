@@ -136,9 +136,16 @@ function showChart(key, asc) {
     topDivs.enter().append("tr")
         .attr("class", function(d) {
             if (d.isEliminated) {
-                return "top";
+                if(d.Country == "Japan"){
+                return "top japanBody";
+                   }else{
+                   return "top koreaBody";
+                   }
             } else {
-                return "top wanna-members";
+                   if(d.Country == "Japan"){
+                return "top japanBody wanna-members";
+                   }else{
+                   return "top koreaBody wanna-members";
             }
         })
         .html(function(d) {
