@@ -171,6 +171,7 @@ function showChart(key, asc) {
 function displayProfile(d) {
     $("#pic").attr("src", getImageSource(d));
     $("#infoName").text(d.name);
+        $("#infoCountry").text(d.country);
     $("#infoLetter")
         .text(d.letter)
         .css("background", getBackground(d))
