@@ -136,11 +136,11 @@ function showChart(key, asc) {
     topDivs.enter().append("tr")
         .attr("class", function(d) {
             if (d.isEliminated) {
-                return "top ";
+                return "top";
             } else {
                 return "top wanna-members";
-             }
-        )
+            }
+        })
         .html(function(d) {
             var letter = '<div class="letter" style="background: ' + getBackground(d) + '; color: ' + getTextColor(d) + '">' + d.letter + '</div>';
             var rank = d.latestRank;
@@ -164,7 +164,6 @@ function showChart(key, asc) {
 function displayProfile(d) {
     $("#pic").attr("src", getImageSource(d));
     $("#infoName").text(d.name);
-     //   $("#infoCountry").text(d.country);
     $("#infoLetter")
         .text(d.letter)
         .css("background", getBackground(d))
@@ -365,9 +364,7 @@ function parseLine(row) {
     var r = {};
     r.name = row.Name;
     r.company = row.Company;
-   // r.country = row["Country"];
     r.letter = row["Level Audition"];
-    r.letter2 = row["Re-Evaluation"];
     r.specialNote = row.note;
     r.ranking = [];
     episodes.forEach(function(episode, i) {
