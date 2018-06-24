@@ -143,11 +143,12 @@ function showChart(key, asc) {
         })
         .html(function(d) {
             var letter = '<div class="letter" style="background: ' + getBackground(d) + '; color: ' + getTextColor(d) + '">' + d.letter + '</div>';
+            var letter2 = '<div class="letter2" style="background: ' + getBackground(d) + '; color: ' + getTextColor(d) + '">' + d.letter2 + '</div>';
             var rank = d.latestRank;
             if (rank == 1000) {
                 rank = "-";
             }
-            return td(rank, "smWidth") + td(d.name, "nameWidth") + td(d.company, "companyWidth") + td(letter, "smWidth") + td(displayRankChange(d), "rankWidth");
+            return td(rank, "smWidth") + td(d.name, "nameWidth") + td(d.company, "companyWidth") + td(letter, "smWidth") + td(letter2, "smWidth") + td(displayRankChange(d), "rankWidth");
         })
         .on("mouseover", function(d) {
             selectLine(d, "#line" + d.latestRank);
@@ -168,6 +169,10 @@ function displayProfile(d) {
         .text(d.letter)
         .css("background", getBackground(d))
         .css("color", getTextColor(d));
+    $("#infoLetter2")
+        .text(d.letter2)
+        .css("background", getBackground2(d))
+        .css("color", getTextColor2(d));
     $("#infoCompany").text(d.company);
     $("#infoRank").html(getRankInfo(d));
 }
@@ -178,6 +183,10 @@ function getImageSource(d) {
 
 function getBackground(d) {
     return colors[d.letter];
+}
+
+function getBackground2(d) {
+    return colors[d.letter2];
 }
 
 function resetLines() {
@@ -346,6 +355,13 @@ function getTextColor(d) {
     return "white";
 }
 
+function getTextColor2(d) {
+    if (d.letter2 == "C") {
+        return "black";
+    }
+    return "white";
+}
+
 // Return rank or -1 if no rank (eliminated)
 function getRank(n) {
     if (n == "-") {
@@ -360,6 +376,7 @@ function parseLine(row) {
     r.name = row.Name;
     r.company = row.Company;
     r.letter = row["Level Audition"];
+     r.letter2 = row["Re-Evaluation"];
     r.specialNote = row.note;
     r.ranking = [];
     episodes.forEach(function(episode, i) {
