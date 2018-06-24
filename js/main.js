@@ -143,7 +143,7 @@ function showChart(key, asc) {
         })
         .html(function(d) {
             var letter = '<div class="letter" style="background: ' + getBackground(d) + '; color: ' + getTextColor(d) + '">' + d.letter + '</div>';
-            var letter2 = '<div class="letter2" style="background: ' + getBackground(d) + '; color: ' + getTextColor(d) + '">' + d.letter2 + '</div>';
+            var letter2 = '<div class="letter2" style="background: ' + getBackground2(d) + '; color: ' + getTextColor2(d) + '">' + d.letter2 + '</div>';
             var rank = d.latestRank;
             if (rank == 1000) {
                 rank = "-";
