@@ -191,11 +191,11 @@ path.ranking {
   #top #latestRank, #top #letter, #top #rankChange, #top .smWidth {
     width: 17px; }
   #top #rankChange, #top .rankWidth {
-    width: 40px; }
+    width: 30px; }
   #top #name, #top .nameWidth {
     width: 120px; }
   #top #company, #top .companyWidth {
-    width: 100px; }
+    width: 80px; }
 
 #footer {
   padding: 20px 50px;
