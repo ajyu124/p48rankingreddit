@@ -188,12 +188,12 @@ path.ranking {
     padding: 10px 15px !important; }
     #top th:hover {
       color: black; }
-  #top #latestRank, #top #letter, #top #rankChange, #top .smWidth {
+  #top #latestRank, #top #letter, #top #letter2, #top #rankChange, #top .smWidth {
     width: 17px; }
   #top #rankChange, #top .rankWidth {
     width: 30px; }
   #top #name, #top .nameWidth {
-    width: 90px; }
+    width: 70px; }
   #top #company, #top .companyWidth {
     width: 50px; }
 
