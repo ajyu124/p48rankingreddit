@@ -195,7 +195,7 @@ path.ranking {
   #top #name, #top .nameWidth {
     width: 90px; }
   #top #company, #top .companyWidth {
-    width: 80px; }
+    width: 50px; }
 
 #footer {
   padding: 20px 50px;
