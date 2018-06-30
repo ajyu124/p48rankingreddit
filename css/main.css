@@ -189,13 +189,13 @@ path.ranking {
     #top th:hover {
       color: black; }
   #top #latestRank, #top #letter, #top #rankChange, #top .smWidth {
-    width: 22px; }
+    width: 17px; }
   #top #rankChange, #top .rankWidth {
-    width: 40px; }
+    width: 50px; }
   #top #name, #top .nameWidth {
-    width: 120px; }
+    width: 115px; }
   #top #company, #top .companyWidth {
-    width: 100px; }
+    width: 95px; }
 
 #footer {
   padding: 20px 50px;
