@@ -13,7 +13,7 @@ var padding = 40;
 var middlePadding = (padding * 2) + 100;
 var width = $(window).width() - middlePadding - CHART_WIDTH - 30;
 
-var episodes = [1, 1.5, 2];
+var episodes = [1, 1.5, 2, 3];
 var totalData;
 var dFirst;
 
@@ -23,7 +23,8 @@ var colors = {
     "C": "#fff200",
     "D": "#00a500",
     "F": "gray",
-    "?": "#000000"
+    "?": "#000000",
+    "-": "#000000"
 };
 
 // Set up plot
