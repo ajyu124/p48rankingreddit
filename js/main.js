@@ -321,7 +321,7 @@ function displayRankChange(d) {
 // Returns the change for current contestants, or shows elimination
 function getRankInfo(d) {
     if (d.specialNote != "") {
-        return d.specialNote;
+        return "Withdrew";
     }
     if (d.isEliminated) {
         //return "Eliminated in Episode " + episodes[d.ranking.length - 1];
