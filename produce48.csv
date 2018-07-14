@@ -1,94 +1,94 @@
-Name,Company,Level Audition,Re-Evaluation,note,ep1,ep2,ep3,ep5,ep6,ep8,ep10,ep11
-Miyawaki Sakura,HKT48,A,A,,2,2,-,-,-,-,-
-Ahn Yujin,Starship,B,A,,9,6,-,-,-,-,-
-Jang Wonyoung,Starship,B,B,,15,17,-,-,-,-,-
-Matsui Jurina,SKE48,B,B,,7,5,-,-,-,-,-
-Lee Kaeun,Pledis,A,A,,1,1,-,-,-,-,-
-Jang Gyuri,Stone Music,B,F,,18,26,-,-,-,-,-
-Choi Yena,Yuehua,A,B,,8,9,-,-,-,-,-
-Shiroma Miru,NMB48,B,D,,32,21,-,-,-,-,-
-Jo Yuri,Stone Music,A,F,,26,22,-,-,-,-,-
-Wang Yiren,Yuahua,B,C,,11,13,-,-,-,-,-
-Kojima Mako,AKB48,C,B,,20,24,-,-,-,-,-
-Kim Minju,Urban Works,D,C,,25,29,-,-,-,-,-
-Yabuki Nako,HK48,F,A,,33,18,-,-,-,-,-
-Kim Sihyun,Yuehua,B,A,,23,34,-,-,-,-,-
-Goto Moe,AKB48,F,C,,12,11,-,-,-,-,-
-Miyazaki Miho,AKB48,D,D,,37,32,-,-,-,-,-
-Bae Eunyoung,Stone Music,C,B,,44,42,-,-,-,-,-
-Heo Yunjin,Pledis,C,F,,14,14,-,-,-,-,-
-Takahashi Juri,AKB48,B,A,,29,10,-,-,-,-,-
-Kim Chaewon,Woolim,B,B,,31,45,-,-,-,-,-
-Nakanishi Chiyori,AKB48,D,C,,24,34,-,-,-,-,-
-Mutu Tomu,AKB48,D,D,,21,29,-,-,-,-,-
-Go Yujin,BlockBerry Creative,C,A,,14,14,-,-,-,-,-
-Kwon Eunbi,Woolim,A,C,,5,8,-,-,-,-,-
-Asai Nanami,AKB48,F,D,,48,52,-,-,-,-,-
-Chiba Erii,AKB48,F,F,,40,36,-,-,-,-,-
-Murakawa Bibian,HKT48,F,F,,36,41,-,-,-,-,-
-Lee Chaeyeon,WM Ent.,A,A,,6,4,-,-,-,-,-
-Honda Hitomi,AKB48,C,A,,60,16,-,-,-,-,-
-Kim Doah,FENT,A,C,,33,47,-,-,-,-,-
-Murase Sae,NMB48,D,C,,50,67,-,-,-,-,-
-Lee Yujeong,CNC,C,C,,60,84,-,-,-,-,-
-Park Seoyoung,Individual Trainee,C,D,,16,27,-,-,-,-,-
-Matsuoka Natsumi,HKT48,F,C,,61,57,-,-,-,-,-
-Na Goeun,RBW,A,A,,28,23,-,-,-,-,-
-Motomura Aoi,HKT48,D,B,,41,40,-,-,-,-,-
-Kang Hyewon,8D Creative,F,F,,48,50,-,-,-,-,-
-Takeuchi Miyu,AKB48,A,B,,4,3,-,-,-,-,-
-Yoon Haesol,Music Works,B,D,,54,50,-,-,-,-,-
-Shitao Miu,AKB48,D,D,,57,57,-,-,-,-,-
-Shin Suhyun,FAVE,D,F,,61,84,-,-,-,-,-
-Nakano Ikumi,AKB48,D,B,,46,38,-,-,-,-,-
-Mogi Shinobu,AKB48,F,D,,53,54,-,-,-,-,-
-Yamada Noe,NGT48,C,F,,3,7,-,-,-,-,-
-Iwatate Saho,AKB48,B,D,,18,19,-,-,-,-,-
-Choi Yeonsoo,YG K-Plus,D,F,,60,62,-,-,-,-,-
-Kim Sohee,Woolim,C,B,,58,75,-,-,-,-,-
-Park Minji,MND17,B,B,,20,20,-,-,-,-,-
-Aramaki Misaki,HKT48,F,F,,30,33,-,-,-,-,-
-Lee Haeun,MNH,A,A,,50,15,-,-,-,-,-
-Park Jinny,Individual Trainee,C,F,,17,28,-,-,-,-,-
-Imada Mina,HKT48,D,C,,58,67,-,-,-,-,-
+Name,Company,Level Audition,Re-Evaluation,note,ep1,ep2,ep3,ep4,ep6,ep8,ep10,ep11
+Miyawaki Sakura,HKT48,A,A,,2,2,4,5,-,-,-
+Ahn Yujin,Starship,B,A,,9,6,5,3,-,-,-
+Jang Wonyoung,Starship,B,B,,15,17,16,9,-,-,-
+Matsui Jurina,SKE48,B,B,,7,5,6,11,-,-,-
+Lee Kaeun,Pledis,A,A,,1,1,1,4,-,-,-
+Jang Gyuri,Stone Music,B,F,,18,26,20,19,-,-,-
+Choi Yena,Yuehua,A,B,,8,9,11,10,-,-,-
+Shiroma Miru,NMB48,B,D,,32,21,21,26,-,-,-
+Jo Yuri,Stone Music,A,F,,26,22,22,17,-,-,-
+Wang Yiren,Yuahua,B,C,,11,13,10,12,-,-,-
+Kojima Mako,AKB48,C,B,,20,24,29,35,-,-,-
+Kim Minju,Urban Works,D,C,,25,29,22,26,-,-,-
+Yabuki Nako,HK48,F,A,,33,18,2,1,-,-,-
+Kim Sihyun,Yuehua,B,A,,23,34,27,30,-,-,-
+Goto Moe,AKB48,F,C,,12,11,15,15,-,-,-
+Miyazaki Miho,AKB48,D,D,,37,32,37,51,-,-,-
+Bae Eunyoung,Stone Music,C,B,,44,42,51,65,-,-,-
+Heo Yunjin,Pledis,C,F,,14,14,17,7,-,-,-
+Takahashi Juri,AKB48,B,A,,29,10,13,16,-,-,-
+Kim Chaewon,Woolim,B,B,,31,45,50,42,-,-,-
+Nakanishi Chiyori,AKB48,D,C,,24,34,24,24,-,-,-
+Mutu Tomu,AKB48,D,D,,21,29,31,41,-,-,-
+Go Yujin,BlockBerry Creative,C,A,,14,14,14,14,-,-,-
+Kwon Eunbi,Woolim,A,C,,5,8,9,13,-,-,-
+Asai Nanami,AKB48,F,D,,48,52,57,49,-,-,-
+Chiba Erii,AKB48,F,F,,40,36,32,33,-,-,-
+Murakawa Bibian,HKT48,F,F,,36,41,38,43,-,-,-
+Lee Chaeyeon,WM Ent.,A,A,,6,4,7,8,-,-,-
+Honda Hitomi,AKB48,C,A,,60,16,8,6,-,-,-
+Kim Doah,FENT,A,C,,33,47,52,56,-,-,-
+Murase Sae,NMB48,D,C,,50,67,54,32,-,-,-
+Lee Yujeong,CNC,C,C,,60,84,62,79,-,-,-
+Park Seoyoung,Individual Trainee,C,D,,16,27,38,43,-,-,-
+Matsuoka Natsumi,HKT48,F,C,,61,57,77,83,-,-,-
+Na Goeun,RBW,A,A,,28,23,26,24,-,-,-
+Motomura Aoi,HKT48,D,B,,41,40,40,48,-,-,-
+Kang Hyewon,8D Creative,F,F,,48,50,33,20,-,-,-
+Takeuchi Miyu,AKB48,A,B,,4,3,3,2,-,-,-
+Yoon Haesol,Music Works,B,D,,54,50,58,57,-,-,-
+Shitao Miu,AKB48,D,D,,57,57,47,31,-,-,-
+Shin Suhyun,FAVE,D,F,,61,84,77,74,-,-,-
+Nakano Ikumi,AKB48,D,B,,46,38,48,54,-,-,-
+Mogi Shinobu,AKB48,F,D,,53,54,70,67,-,-,-
+Yamada Noe,NGT48,C,F,,3,7,12,18,-,-,-
+Iwatate Saho,AKB48,B,D,,18,19,28,37,-,-,-
+Choi Yeonsoo,YG K-Plus,D,F,,60,62,89,88,-,-,-
+Kim Sohee,Woolim,C,B,,58,75,75,71,-,-,-
+Park Minji,MND17,B,B,,20,20,48,45,-,-,-
+Aramaki Misaki,HKT48,F,F,,30,33,77,74,-,-,-
+Lee Haeun,MNH,A,A,,50,15,18,22,-,-,-
+Park Jinny,Individual Trainee,C,F,,17,28,36,46,-,-,-
+Imada Mina,HKT48,D,C,,58,67,85,88,-,-,-
 Yoon Eunbin,CNC,B,B,,62,57,-,-,-,-,-
-Kim Nayoung,Banana Culture,C,A,,57,62,-,-,-,-,-
-Oda Erina,AKB48,C,F,,57,62,-,-,-,-,-
-Sato Minami,AKB48,D,F,,60,67,-,-,-,-,-
-Kim Suyun,Woolim,C,C,,58,52,-,-,-,-,-
-Park Haeyoon,FNC,A,D,,30,34,-,-,-,-,-
-Kim Dayeon,CNC,B,B,,59,67,-,-,-,-,-
-Hasegawa Rena,NGT48,D,F,,45,56,-,-,-,-,-
-Kim Minseo,HOW,C,C,,58,84,-,-,-,-,-
+Kim Nayoung,Banana Culture,C,A,,57,62,58,79,-,-,-
+Oda Erina,AKB48,C,F,,57,62,64,58,-,-,-
+Sato Minami,AKB48,D,F,,60,67,64,67,-,-,-
+Kim Suyun,Woolim,C,C,,58,52,77,60,-,-,-
+Park Haeyoon,FNC,A,D,,30,34,42,21,-,-,-
+Kim Dayeon,CNC,B,B,,59,67,75,83,-,-,-
+Hasegawa Rena,NGT48,D,F,,45,56,70,59,-,-,-
+Kim Minseo,HOW,C,C,,58,84,70,71,-,-,-
 Tanaka Miku,HKT48,F,C,,58,84,-,-,-,-,-
-Han Chowon,CUBE,D,B,,46,48,-,-,-,-,-
-Cho Kahyun,Starship,B,B,,42,52,-,-,-,-,-
-Lee Seunghyun,WM Ent.,B,C,,61,57,-,-,-,-,-
-Kim Hyunah,Collazoo Company,B,B,,60,46,-,-,-,-,-
-Kim Choyeon,A Team,A,C,,60,20,-,-,-,-,-
-Asai Yuka,SKE48,F,D,,61,67,-,-,-,-,-
-Kang Damin,Wellmade Yedang,B,A,,60,78,-,-,-,-,-
-Kato Yuuka,NMB48,C,B,,63,66,-,-,-,-,-
-Nagano Serika,AKB48,F,F,,63,84,-,-,-,-,-
-Kurihara Sae,HKT48,F,D,,59,78,-,-,-,-,-
-Cho Youngin,WM Ent.,B,C,,59,75,-,-,-,-,-
-Naiki Kokoro,NMB48,D,C,,63,75,-,-,-,-,-
-Hong Yeji,CNC,B,F,,58,84,-,-,-,-,-
-Park Jieun,RBW,C,F,,56,54,-,-,-,-,-
+Han Chowon,CUBE,D,B,,46,48,42,29,-,-,-
+Cho Kahyun,Starship,B,B,,42,52,70,88,-,-,-
+Lee Seunghyun,WM Ent.,B,C,,61,57,79,85,-,-,-
+Kim Hyunah,Collazoo Company,B,B,,60,46,45,38,-,-,-
+Kim Choyeon,A Team,A,C,,60,20,19,28,-,-,-
+Asai Yuka,SKE48,F,D,,61,67,51,88,-,-,-
+Kang Damin,Wellmade Yedang,B,A,,60,78,56,60,-,-,-
+Kato Yuuka,NMB48,C,B,,63,66,64,70,-,-,-
+Nagano Serika,AKB48,F,F,,63,84,92,83,-,-,-
+Kurihara Sae,HKT48,F,D,,59,78,89,83,-,-,-
+Cho Youngin,WM Ent.,B,C,,59,75,85,83,-,-,-
+Naiki Kokoro,NMB48,D,C,,63,75,77,79,-,-,-
+Hong Yeji,CNC,B,F,,58,84,64,49,-,-,-
+Park Jieun,RBW,C,F,,56,54,64,63,-,-,-
 Tsukiahi Amane,HKT48,F,F,Withdrew,59,-,-,-,-,-,-
-Ichikawa Minami,AKB48,F,C,,58,84,-,-,-,-,-
-Kim Dahye,Banana Culture,A,B,,61,62,-,-,-,-,-
-Won Seoyeon,MMO,C,F,,61,78,-,-,-,-,-
-Ahn Yewon,YG K-Plus,F,F,,50,62,-,-,-,-,-
-Cho Ahyoung,AKB48,C,B,,54,67,-,-,-,-,-
-Shinozaki Ayana,AKB48,F,F,,63,84,-,-,-,-,-
-Park Chanju,MND17,C,D,,61,78,-,-,-,-,-
-Yu Minyoung,HOW Ent.,A,B,,22,42,-,-,-,-,-
-Choi Soeun,Music Works,B,C,,60.67,-,-,-,-,-
-Alex Christine,ZB Label,B,C,,33,39,-,-,-,-,-
-Cho Sarang,Million Market,B,F,,63,78,-,-,-,-,-
-Kim Yubin,CNC,B,D,,63,78,-,-,-,-,-
-Hwang Soyeon,Wellmade Yedang,A,A,,39,31,-,-,-,-,-
-Wang Ke,HOW Ent.,B,D,,13,25,-,-,-,-,-
-Son Eunchae,Million Market,C,B,,62,48,-,-,-,-,-
-Lee Chaejeong,MND17,C,C,,63,84,-,-,-,-,-
+Ichikawa Minami,AKB48,F,C,,58,84,64,67,-,-,-
+Kim Dahye,Banana Culture,A,B,,61,62,46,52,-,-,-
+Won Seoyeon,MMO,C,F,,61,78,85,74,-,-,-
+Ahn Yewon,YG K-Plus,F,F,,50,62,58,65,-,-,-
+Cho Ahyoung,AKB48,C,B,,54,67,58,33,-,-,-
+Shinozaki Ayana,AKB48,F,F,,63,84,77,92,-,-,-
+Park Chanju,MND17,C,D,,61,78,70,63,-,-,-
+Yu Minyoung,HOW Ent.,A,B,,22,42,55,52,-,-,-
+Choi Soeun,Music Works,B,C,,60.67,77,71,-,-,-
+Alex Christine,ZB Label,B,C,,33,39,44,54,-,-,-
+Cho Sarang,Million Market,B,F,,63,78,77,74,-,-,-
+Kim Yubin,CNC,B,D,,63,78,89,88,-,-,-
+Hwang Soyeon,Wellmade Yedang,A,A,,39,31,40,47,-,-,-
+Wang Ke,HOW Ent.,B,D,,13,25,24,39,-,-,-
+Son Eunchae,Million Market,C,B,,62,48,29,40,-,-,-
+Lee Chaejeong,MND17,C,C,,63,84,62,60,-,-,-
