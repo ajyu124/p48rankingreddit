@@ -13,7 +13,7 @@ var padding = 40;
 var middlePadding = (padding * 2) + 100;
 var width = $(window).width() - middlePadding - CHART_WIDTH - 30;
 
-var episodes = [1, 2, 3, 4, 5, 6];
+var episodes = [1, 2, 3, 4, 5, 6, 7];
 var totalData;
 var dFirst;
 
